@@ -1,0 +1,14 @@
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.csprojAssemblyReference.cache
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.Add_abonent.resources
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.Form1.resources
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.Form_Magic.resources
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.Properties.Resources.resources
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.csproj.GenerateResource.cache
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Desktop\Billing_system\Billing_system\bin\Debug\Database1.mdf
+C:\Users\dasha\Desktop\Billing_system\Billing_system\bin\Debug\Database1_log.ldf
+C:\Users\dasha\Desktop\Billing_system\Billing_system\bin\Debug\Billing_system.exe.config
+C:\Users\dasha\Desktop\Billing_system\Billing_system\bin\Debug\Billing_system.exe
+C:\Users\dasha\Desktop\Billing_system\Billing_system\bin\Debug\Billing_system.pdb
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.exe
+C:\Users\dasha\Desktop\Billing_system\Billing_system\obj\Debug\Billing_system.pdb
